@@ -1,4 +1,4 @@
-# Password Security & Authentication Analysis 🔐
+Password Security & Authentication Analysis 🔐
 
  📌 Project Overview
 This project focuses on identifying security vulnerabilities in web applications, specifically related to password security and authentication mechanisms. The assessment was conducted using OWASP Top 10 methodology.
